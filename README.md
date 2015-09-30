@@ -1,2 +1,2 @@
 # CubicViewer
-An interactive cubic panorama viewer plugin for ImageJ/Fiji
+An interactive cubic panorama viewer for ImageJ/Fiji
